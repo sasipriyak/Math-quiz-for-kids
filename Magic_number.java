@@ -1,7 +1,8 @@
-public class Magic {
-	public static void main(String[] args) {
 
-		int myNumber =656; //myNumber is a original number.
+public class Magic_number {
+	public static void main(String[] args) {
+		
+	int myNumber =656; //myNumber is a original number.
     int stepOne = myNumber*myNumber;
     int stepTwo = stepOne + myNumber;
     int stepThree = stepTwo/myNumber;
